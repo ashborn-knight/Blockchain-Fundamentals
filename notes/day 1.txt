@@ -1,0 +1,10 @@
+Today I learnt about sha256 and hash functions
+
+I learnt that you can encrypt messages by hashing them such that passing a 
+an imput into a sha256 algorithm would have give out a unique output in the form of a hash
+
+Think of it as your fingerprints which indentifiess you 
+1. it isnt you 
+2. it just uniquely represeents you...hashes are similar
+
+nB: has is not the original data but the unique digitaal fingerprint of thee data
