@@ -1,1 +1,8 @@
 Welcome to day 2
+
+1. I learnt about public addresses and private addresses and types of encryption and their relevance to the blockchain netwrk
+2. I downloaded mea mask and exprienced using it by gettin my account faucsets and experimenting with sending and receiving transactions
+3. I watched more youtube videos on public addresses and how encrypton realyy work on chain
+4. I reviewed the hashing javascript concepts and projects I last created to solidify my understanding ih the conceptof hashing
+5. I searched to read oon oapers on google schoar to see if there where books or indormation spointing or guiding beginners but I failed to get a single one..most books were being sold others ere inaccessible 
+
