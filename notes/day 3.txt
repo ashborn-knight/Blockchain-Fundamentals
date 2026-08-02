@@ -1,0 +1,16 @@
+day 3
+
+1. Today i enrolled for chainlink course on cyfrin updrafts as part of the 2 courses under blockchain devloper career track on cyfrin updrat
+2. I have already completed the first course under the blockchain devloper career path on cyfrin updaft that is blockcahin fundamentals
+3. I took a course on udemy to understnad more about git and github since i wil be constantly pushing and updating my projects and everyday progress for my 90 day joruney
+4. I also researched to see if i could find free blockchain trainng or scholarships to help me learn and follow and thrive in the industry
+5. I begun my chainlink course on cryfin updraft officially
+6. I completed a section on cryptzombies on arrays and ms.sender
+7. I completed two modules on into to solidity on learnweb3 and on erc20 introduction
+8. I learnt that git and github is revelant by providue an avenue for code review and it helps a group of developers to collaborate and work on any project regardless of theri physical location
+...it prevents a single point of failure
+...it ensures continuous integratio and devlopemnt ( CI/CD)
+so much i need to master as in tke steps in my career
+9. I worked on my programing with c# project which was a project on Academic certificate verifcation and validatio system [ we were asked by our lecturer to each come up with semester projects that included or was built on c# and since my goal is to become a web3 builder i chose this project.........I might not have the knowledge to create everything from scratch but i have been using claude and various AI to guide and create the project by installing dependancies needed and with web3 walletr integration and stuff into the project its still in a demo state but i belive consistent polishing would make the project worth it
+10. I had a meeting with BuzzChat team members since i have come to join the family ..we discussed on a project already created by the team founder a personalised AI bot available at your disposal if implmemnted correctly named OrcBot
+11. 
